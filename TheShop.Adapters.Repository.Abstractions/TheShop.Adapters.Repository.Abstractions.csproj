@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TheShop.BusinessModels\TheShop.BusinessModels.csproj" />
+    <ProjectReference Include="..\TheShop.Exceptions\TheShop.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>
